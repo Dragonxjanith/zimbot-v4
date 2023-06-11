@@ -24,7 +24,7 @@
   "author": "Drips",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^5.0.0",
+    "@adiwajshing/baileys": "npm:baileys-md@5.0.5",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@mozilla/readability": "^0.4.2",
